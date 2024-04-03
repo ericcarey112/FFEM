@@ -1,0 +1,35 @@
+**FIBERS
+ConstitutiveModel: 2
+E1: 276000.0
+E2: 14000.0
+v23: 0.25
+G23: 20000.0
+
+**MATRIX
+ConstitutiveModel: 3
+E2: 4080.0
+v23: 0.36
+Strength: 100.0
+GIC: 10.0
+
+**RVE
+Thickness: 1.0
+PlaneStressPlaneStrain: 2
+
+**BOUNDARY CONDITIONS
+E22: 0.02
+E23: 0.0
+E33: 0.0
+LoadStep: 0.00025
+
+**SOLVER
+Type: 2
+NRMax: 10
+MaxAttempts: 10
+MaxLoadSteps: 500
+ConvergenceTolerance: 0.0025
+
+**PARAVIEW FILES
+ParaviewVTKs: 1
+
+**END

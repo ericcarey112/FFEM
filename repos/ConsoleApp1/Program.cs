@@ -10,12 +10,11 @@
         {
             ///////////////// INPUTS /////////////////
             // Create instance of each class:
-            MeshFile mesh = new("Mesh.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\MeshFiles\\RVEs");           // (Filename.txt, Directory)
-            InputFile inputfile = new("UserInputs.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\InputFiles");    // (Filename.txt, Directory)
-            OutputFile outputfile = new("20Pack.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\OutputFiles\\RVEs"); // (Filename.txt, Directory)
-            ParaviewFiles paraview = new("Test", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\ParaviewFiles\\Test");  // (Filename, Directory) -- do not add .txt or .vtk to Filename
+            MeshFile mesh = new("Hex_20Pack.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\MeshFiles\\RVEs");           // (Filename.txt, Directory)
+            InputFile inputfile = new("ExampleInputFile.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\InputFiles");    // (Filename.txt, Directory)
+            OutputFile outputfile = new("Hex_20Pack.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\OutputFiles\\RVEs"); // (Filename.txt, Directory)
+            ParaviewFiles paraview = new("Hex_20Pack", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\ParaviewFiles\\Test");  // (Filename, Directory) -- DO NOT ADD .txt or .vtk to Filename
             //////////////// END INPUTS ///////////////
-
 
             // Submit model for analysis
             SubmitForAnalysis(mesh, inputfile, outputfile, paraview);

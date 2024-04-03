@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eric_\\source\\repos\\Elements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\shapefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:shapefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\element_6nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:element_6nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\element_8nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:element_8nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\element_6nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:element_6nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\element_4nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:element_4nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\element_3nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:element_3nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|c:\\users\\eric_\\source\\repos\\elements\\element_4nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7BCD57-779C-431A-ADAF-2402F08A593E}|Elements.csproj|solutionrelative:element_4nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Element_6NT.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_6NT.cs",
+              "RelativeDocumentMoniker": "Element_6NT.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_6NT.cs",
+              "RelativeToolTip": "Element_6NT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:16:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Element_4NT.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_4NT.cs",
+              "RelativeDocumentMoniker": "Element_4NT.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_4NT.cs",
+              "RelativeToolTip": "Element_4NT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:02:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Element_3NT.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_3NT.cs",
+              "RelativeDocumentMoniker": "Element_3NT.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_3NT.cs",
+              "RelativeToolTip": "Element_3NT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:46:34.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Element_6NQ.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_6NQ.cs",
+              "RelativeDocumentMoniker": "Element_6NQ.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_6NQ.cs",
+              "RelativeToolTip": "Element_6NQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:26:20.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Element_8NQ.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_8NQ.cs",
+              "RelativeDocumentMoniker": "Element_8NQ.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_8NQ.cs",
+              "RelativeToolTip": "Element_8NQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:53:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\ShapeFunctions.cs",
+              "RelativeDocumentMoniker": "ShapeFunctions.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\ShapeFunctions.cs",
+              "RelativeToolTip": "ShapeFunctions.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:58:45.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:11:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Element_4NQ.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_4NQ.cs",
+              "RelativeDocumentMoniker": "Element_4NQ.cs",
+              "ToolTip": "C:\\Users\\eric_\\source\\repos\\Elements\\Element_4NQ.cs",
+              "RelativeToolTip": "Element_4NQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:11:18.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

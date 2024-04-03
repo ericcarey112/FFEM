@@ -1,0 +1,194 @@
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Elements.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Solver.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Elements.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Solver.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\eric_\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Elements.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Elements.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Matrix.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Solver.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Assembly.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\FEMAssembly.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Doubles.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\FEMAssembly.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Mapack.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\myMath.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\Mapack.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\ConsoleApp1\bin\Debug\net8.0\myMath.pdb

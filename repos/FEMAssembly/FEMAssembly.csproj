@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mapack\Mapack.csproj" />
+    <ProjectReference Include="..\myMath\myMath.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Doubles">
+      <HintPath>..\Doubles\bin\Debug\net8.0\Doubles.dll</HintPath>
+    </Reference>
+    <Reference Include="InputOutput">
+      <HintPath>..\ConsoleApp1\bin\Debug\net8.0\InputOutput.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

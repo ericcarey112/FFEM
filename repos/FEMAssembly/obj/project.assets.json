@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Mapack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Mapack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mapack.dll": {}
+        }
+      },
+      "myMath/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Mapack": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/myMath.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/myMath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mapack/1.0.0": {
+      "type": "project",
+      "path": "../Mapack/Mapack.csproj",
+      "msbuildProject": "../Mapack/Mapack.csproj"
+    },
+    "myMath/1.0.0": {
+      "type": "project",
+      "path": "../myMath/myMath.csproj",
+      "msbuildProject": "../myMath/myMath.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Mapack >= 1.0.0",
+      "myMath >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Eric_Carey.UMLADCO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\FEMAssembly\\FEMAssembly.csproj",
+      "projectName": "FEMAssembly",
+      "projectPath": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\FEMAssembly\\FEMAssembly.csproj",
+      "packagesPath": "C:\\Users\\Eric_Carey.UMLADCO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\FEMAssembly\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Eric_Carey.UMLADCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\Mapack\\Mapack.csproj": {
+              "projectPath": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\Mapack\\Mapack.csproj"
+            },
+            "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\myMath\\myMath.csproj": {
+              "projectPath": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\myMath\\myMath.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

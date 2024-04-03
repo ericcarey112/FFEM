@@ -1,0 +1,60 @@
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.deps.json
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.dll
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\ref\myMath.dll
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.pdb
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\Mapack.dll
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\Mapack.pdb
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.AssemblyReference.cache
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.GeneratedMSBuildEditorConfig.editorconfig
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.AssemblyInfoInputs.cache
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.AssemblyInfo.cs
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.CoreCompileInputs.cache
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.CopyComplete
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.dll
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\ref\myMath.dll
+E:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.pdb
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.deps.json
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.dll
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\ref\myMath.dll
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.pdb
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\Mapack.dll
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\Mapack.pdb
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.AssemblyReference.cache
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.AssemblyInfoInputs.cache
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.AssemblyInfo.cs
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.CoreCompileInputs.cache
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.CopyComplete
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.dll
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\ref\myMath.dll
+D:\Google Drive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.pdb
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.deps.json
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.dll
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\myMath.pdb
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\Mapack.dll
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\bin\Debug\net5.0\Mapack.pdb
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.AssemblyReference.cache
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.GeneratedMSBuildEditorConfig.editorconfig
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.AssemblyInfoInputs.cache
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.AssemblyInfo.cs
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.CoreCompileInputs.cache
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.csproj.CopyComplete
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.dll
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\refint\myMath.dll
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\myMath.pdb
+E:\GoogleDrive\IFAM\Projects\FDEM\Programs\FiberDEM_2D\myMath\obj\Debug\net5.0\ref\myMath.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\bin\Debug\net5.0\myMath.deps.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\bin\Debug\net5.0\myMath.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\bin\Debug\net5.0\myMath.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\bin\Debug\net5.0\Mapack.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\bin\Debug\net5.0\Mapack.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.csproj.AssemblyReference.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.AssemblyInfoInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.AssemblyInfo.cs
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.csproj.CoreCompileInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.csproj.Up2Date
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\refint\myMath.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\myMath.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\myMath\obj\Debug\net5.0\ref\myMath.dll

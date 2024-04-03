@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "myMath/1.0.0": {
+        "dependencies": {
+          "Mapack": "1.0.0"
+        },
+        "runtime": {
+          "myMath.dll": {}
+        }
+      },
+      "Mapack/1.0.0": {
+        "runtime": {
+          "Mapack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myMath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mapack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

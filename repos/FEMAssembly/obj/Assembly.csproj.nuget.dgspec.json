@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Assembly\\Assembly.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Assembly\\Assembly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Assembly\\Assembly.csproj",
+        "projectName": "Assembly",
+        "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Assembly\\Assembly.csproj",
+        "packagesPath": "C:\\Users\\eric_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Assembly\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj": {
+                "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj"
+              },
+              "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj": {
+                "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj"
+              },
+              "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Solver\\Solver.csproj": {
+                "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Solver\\Solver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj",
+        "projectName": "Doubles",
+        "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj",
+        "packagesPath": "C:\\Users\\eric_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj",
+        "projectName": "Matrix",
+        "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj",
+        "packagesPath": "C:\\Users\\eric_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Solver\\Solver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Solver\\Solver.csproj",
+        "projectName": "Solver",
+        "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Solver\\Solver.csproj",
+        "packagesPath": "C:\\Users\\eric_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Solver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eric_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj": {
+                "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Doubles\\Doubles.csproj"
+              },
+              "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj": {
+                "projectPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\FFEM_CSharp\\repos\\Matrix\\Matrix.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

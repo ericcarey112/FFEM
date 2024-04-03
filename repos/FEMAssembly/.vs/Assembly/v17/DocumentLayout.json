@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\element_3nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:element_3nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\element_4nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:element_4nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\element_4nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:element_4nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\element_6nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:element_6nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\element_6nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:element_6nt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\element_8nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:element_8nq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|c:\\users\\eric_\\onedrive - umass lowell\\csharp\\repos\\assembly\\shapefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22A772-3D3F-4B7A-BC9D-FDC3DBF0019F}|Assembly.csproj|solutionrelative:shapefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShapeFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\ShapeFunctions.cs",
+              "RelativeDocumentMoniker": "ShapeFunctions.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\ShapeFunctions.cs",
+              "RelativeToolTip": "ShapeFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:49:14.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Element_3NT.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_3NT.cs",
+              "RelativeDocumentMoniker": "Element_3NT.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_3NT.cs",
+              "RelativeToolTip": "Element_3NT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:52.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Element_4NQ.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_4NQ.cs",
+              "RelativeDocumentMoniker": "Element_4NQ.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_4NQ.cs",
+              "RelativeToolTip": "Element_4NQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:49.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Element_4NT.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_4NT.cs",
+              "RelativeDocumentMoniker": "Element_4NT.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_4NT.cs",
+              "RelativeToolTip": "Element_4NT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:46.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Element_6NQ.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_6NQ.cs",
+              "RelativeDocumentMoniker": "Element_6NQ.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_6NQ.cs",
+              "RelativeToolTip": "Element_6NQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:42.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Element_6NT.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_6NT.cs",
+              "RelativeDocumentMoniker": "Element_6NT.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_6NT.cs",
+              "RelativeToolTip": "Element_6NT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:35.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Element_8NQ.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_8NQ.cs",
+              "RelativeDocumentMoniker": "Element_8NQ.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Element_8NQ.cs",
+              "RelativeToolTip": "Element_8NQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:27.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elements.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Elements.cs",
+              "RelativeDocumentMoniker": "Elements.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Elements.cs",
+              "RelativeToolTip": "Elements.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:48:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assembly.cs",
+              "DocumentMoniker": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Assembly.cs",
+              "RelativeDocumentMoniker": "Assembly.cs",
+              "ToolTip": "C:\\Users\\eric_\\OneDrive - UMass Lowell\\CSharp\\repos\\Assembly\\Assembly.cs",
+              "RelativeToolTip": "Assembly.cs",
+              "ViewState": "AQIAAMYBAAAAAAAAAAAAANMBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:24:42.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

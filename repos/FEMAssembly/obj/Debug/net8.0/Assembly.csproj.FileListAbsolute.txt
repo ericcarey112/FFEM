@@ -1,0 +1,132 @@
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfo.cs
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Assembly.deps.json
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Assembly.dll
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Doubles.dll
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Matrix.dll
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Doubles.pdb
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Matrix.pdb
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.Up2Date
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.dll
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\refint\Assembly.dll
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\source\repos\Assembly\obj\Debug\net8.0\ref\Assembly.dll
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Solver.dll
+C:\Users\eric_\source\repos\Assembly\bin\Debug\net8.0\Solver.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Solver.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Solver.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfo.cs
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.Up2Date
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\refint\Assembly.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.deps.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\ref\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Solver.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Solver.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfo.cs
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.Up2Date
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\refint\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.deps.json
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\ref\Assembly.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Solver.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Solver.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfo.cs
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.Up2Date
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\refint\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.deps.json
+C:\Users\mike-\OneDrive - UMass Lowell\CSharp\repos\Assembly\obj\Debug\net8.0\ref\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\InputOutput.dll
+C:\Users\eric_\OneDrive - UMass Lowell\CSharp\repos\Assembly\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Solver.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\InputOutput.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Solver.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfo.cs
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.Up2Date
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\refint\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.pdb
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.deps.json
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\ref\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Solver.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\InputOutput.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\ConstitutiveModels.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Doubles.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Matrix.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Solver.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.AssemblyInfo.cs
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.csproj.Up2Date
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\refint\Assembly.dll
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\Assembly.pdb
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\Assembly.deps.json
+C:\Users\mike-\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\obj\Debug\net8.0\ref\Assembly.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\MaterialModels.dll
+C:\Users\eric_\OneDrive - UMass Lowell\FFEM_CSharp\repos\Assembly\bin\Debug\net8.0\MaterialModels.pdb

@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-namespace FEMAssembly
+﻿namespace FEMAssembly
 {
     class Program
     {
@@ -16,7 +14,7 @@ namespace FEMAssembly
             InputFile inputfile = new("UserInputs.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\InputFiles");    // (Filename.txt, Directory)
             OutputFile outputfile = new("20Pack.txt", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\OutputFiles\\RVEs"); // (Filename.txt, Directory)
             ParaviewFiles paraview = new("Test", "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\ParaviewFiles\\Test");  // (Filename, Directory) -- do not add .txt or .vtk to Filename
-            //////////////// END INPUTS ///////////////dfbdfbxdfgb
+            //////////////// END INPUTS ///////////////
 
 
             // Submit model for analysis

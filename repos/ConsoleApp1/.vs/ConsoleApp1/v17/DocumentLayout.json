@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCBA750A-241E-43F5-84B0-EBFEAD396751}|ConsoleApp1.csproj|c:\\users\\eric_carey.umladco\\onedrive - umass lowell\\ffem_csharp\\ffem\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCBA750A-241E-43F5-84B0-EBFEAD396751}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3578D2A-3DB5-49BD-99B2-AB5BD0A89A16}|..\\FEMAssembly\\FEMAssembly.csproj|c:\\users\\eric_carey.umladco\\onedrive - umass lowell\\ffem_csharp\\ffem\\repos\\femassembly\\assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3578D2A-3DB5-49BD-99B2-AB5BD0A89A16}|..\\FEMAssembly\\FEMAssembly.csproj|c:\\users\\eric_carey.umladco\\onedrive - umass lowell\\ffem_csharp\\ffem\\repos\\femassembly\\assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCBA750A-241E-43F5-84B0-EBFEAD396751}|ConsoleApp1.csproj|c:\\users\\eric_carey.umladco\\onedrive - umass lowell\\ffem_csharp\\ffem\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCBA750A-241E-43F5-84B0-EBFEAD396751}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,37 +17,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T17:21:29.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Assembly.cs",
               "DocumentMoniker": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\FEMAssembly\\Assembly.cs",
               "RelativeDocumentMoniker": "..\\FEMAssembly\\Assembly.cs",
               "ToolTip": "C:\\Users\\Eric_Carey.UMLADCO\\OneDrive - UMass Lowell\\FFEM_CSharp\\FFEM\\repos\\FEMAssembly\\Assembly.cs",
               "RelativeToolTip": "..\\FEMAssembly\\Assembly.cs",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAQwK0AAAAmAAAA",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAQwLQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T17:11:46.447Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

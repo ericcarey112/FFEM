@@ -111,14 +111,14 @@ namespace FEMAssembly
                 // Check if model should terminate:
                 if (solver.TerminateFlag) { break; }
 
-                // Increase load step number:
-                solver.LoadStepNumber++;
-
                 // Increase load step:
                 IncreaseLoadStep();
+                solver.LoadStepNumber++;
+
+                // Calculate external forces:
+                CalcExternalForcesRVE();
 
                 // Solve constitutive laws and look for force equilibrium:
-                double[] Residual = new double[TotalDOF];
                 bool converged = false;
                 while (converged == false)
                 {
@@ -159,14 +159,14 @@ namespace FEMAssembly
                             // Calculate DMatrix and stress with material model:
                             element.Model.SolveDMatrixAndStress(element.Type, element.NodalLocations, element.PlaneStressPlaneStrain, k, element.NumIPs, xi, eta, Strain, out double[,] DMatrix, out double[] Stress);
 
-                            // Calculate stiffness:
+                            // Calculate stiffness at each IP:
                             double Const = element.Thickness * W * detJ;
                             double[,] Integral = MatrixMath.Multiply(BMatrixTranspose, DMatrix);
                             Integral = MatrixMath.Multiply(Integral, BMatrix);
                             Integral = MatrixMath.ScalarMultiply(Const, Integral);
                             element.KMatrix = MatrixMath.Add(element.KMatrix, Integral);
 
-                            // Calculate internal force:
+                            // Calculate internal force at each IP:
                             double[] Force = Elements.CalcInternalForces(BMatrixTranspose, Stress, W, element.Thickness, detJ);
                             element.InternalForce = Doubles.AddDoubles(element.InternalForce, Force);
                         }
@@ -176,7 +176,7 @@ namespace FEMAssembly
                     AssembleGlobalK();
                     AssembleGlobalF();
 
-                    // Store initial K and F at beginning of and apply BCs:
+                    // Store initial K and F at beginning of load step and apply BCs:
                     if (solver.NRCounter == 0 && solver.AttemptCounter == 0)
                     {
                         K_PreBC_Init = K_PreBC;
@@ -191,13 +191,13 @@ namespace FEMAssembly
                     }
                     else if (solver.SolverType == 2) // Static non-linear solver
                     {
-                        // Calculate external and internal forces for RVE:
-                        CalcExternalForcesRVE();
-                        CalcInternalForcesRVE();
+                        // Calculate Residual (Fext - Fint)
+                        AssembleInternalForcesRVE();
+                        double[] Residual = new double[TotalDOF];
                         Residual = Doubles.SubtractDoubles(ExternalForces, InternalForces);
 
                         // Check Equilibrium:
-                        converged = CheckEquilibrium(InternalForces, Residual, solver.ConvergenceTolerance);
+                        converged = CheckEquilibrium(ExternalForces, Residual, solver.ConvergenceTolerance);
                         
                     }
                     else { throw new Exception("Invalid solver type. Must be 1 (Static linear) or 2 (Static non-linear)"); }
@@ -229,7 +229,7 @@ namespace FEMAssembly
                         continue;
                     }
 
-                    // If not converged, apply Newton-Raphson or reduce load step:
+                    // If not converged, apply Newton-Raphson:
                     else
                     {
                         // If NR Counter = MaxNRIterations, cut load step in half:
@@ -249,16 +249,10 @@ namespace FEMAssembly
 
                             // Reduce load step
                             ReduceLoadStep();
-                            continue;
                         }
-
-                        // If no convergence, then apply Newton-Raphson:
-                        else
-                        {
-                            // Use NR to guess next displacements:
-                            GlobalQ = Solver.NewtonRaphson(GlobalK, GlobalQ, Residual, "Secant");
-                            solver.IncreaseNRCounter();
-                        }
+                        // Use NR to guess next displacements:
+                        GlobalQ = Solver.NewtonRaphson(GlobalK, GlobalQ, Residual, "Secant");
+                        solver.IncreaseNRCounter();
                     }
                 }
             }
@@ -482,9 +476,9 @@ namespace FEMAssembly
         }
 
         /// <summary>
-        /// Calculate internal forces of RVE
+        /// Assemble the internal forces of RVE
         /// </summary>
-        private void CalcInternalForcesRVE()
+        private void AssembleInternalForcesRVE()
         {
             double[] Fint_RVE = new double[TotalDOF];
 

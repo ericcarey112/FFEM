@@ -114,6 +114,9 @@ namespace FEMAssembly
                 // Increase load step number:
                 solver.LoadStepNumber++;
 
+                // Increase load step:
+                IncreaseLoadStep();
+
                 // Solve constitutive laws and look for force equilibrium:
                 double[] Residual = new double[TotalDOF];
                 bool converged = false;
@@ -178,12 +181,8 @@ namespace FEMAssembly
                     {
                         K_PreBC_Init = K_PreBC;
                         F_PreBC_Init = F_PreBC;
-                        IncreaseLoadStep();
                         ApplyPeriodicBCs();
                     }
-
-                    // Solve Displacements:
-                    GlobalQ = Solver.SolveDisplacements(GlobalK, GlobalF);
 
                     // Check convergence:
                     if (solver.SolverType == 1)      // Static linear solver
@@ -240,16 +239,16 @@ namespace FEMAssembly
                             solver.IncreaseAttemptCounter();
                             solver.AttemptCheck();
                             if (solver.TerminateFlag) { return; }
+
+                            // Reset NR Counter:
                             solver.ResetNRCounter();
 
                             // Reset K and F to beginning of load step:
                             K_PreBC = K_PreBC_Init;
                             F_PreBC = F_PreBC_Init;
 
-                            // Reduce load step, apply BCs, and solve displacements:
+                            // Reduce load step
                             ReduceLoadStep();
-                            ApplyPeriodicBCs();
-                            GlobalQ = Solver.SolveDisplacements(GlobalK, GlobalF);
                             continue;
                         }
 
@@ -257,9 +256,6 @@ namespace FEMAssembly
                         else
                         {
                             // Use NR to guess next displacements:
-                            AssembleGlobalK();
-                            AssembleGlobalF();
-                            ApplyPeriodicBCs();
                             GlobalQ = Solver.NewtonRaphson(GlobalK, GlobalQ, Residual, "Secant");
                             solver.IncreaseNRCounter();
                         }

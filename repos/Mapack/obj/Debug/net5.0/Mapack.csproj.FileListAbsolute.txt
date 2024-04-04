@@ -45,3 +45,15 @@ C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Mapack\obj
 C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Mapack\obj\Debug\net5.0\refint\Mapack.dll
 C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Mapack\obj\Debug\net5.0\Mapack.pdb
 C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Mapack\obj\Debug\net5.0\ref\Mapack.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\bin\Debug\net5.0\Mapack.deps.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\bin\Debug\net5.0\Mapack.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\bin\Debug\net5.0\Mapack.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.AssemblyInfoInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.AssemblyInfo.cs
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.csproj.CoreCompileInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.sourcelink.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\refint\Mapack.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\Mapack.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Mapack\obj\Debug\net5.0\ref\Mapack.dll

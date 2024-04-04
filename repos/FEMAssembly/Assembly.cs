@@ -63,6 +63,7 @@ namespace FEMAssembly
         public double[,] HomogenizedStiffness { get; set; }
         public double[] ExternalForces { get; set; }
         public double[] InternalForces {  get; set; }
+        private double[] Residual { get; set; }
 
         // Constructor
         public Assembly() // Most of these properties (NumberOfElements, NumberofNodes, etc get assigned during the mesh reading. Kind of awkward to have a bunch of "... = 0" for a bunch of properties. Best way to set up constructors?) Should ask Stapleton
@@ -97,6 +98,7 @@ namespace FEMAssembly
             this.HomogenizedStiffness = new double[3, 3];
             this.ExternalForces = [];
             this.InternalForces = [];
+            this.Residual = [];
         }
 
         // Methods
@@ -115,14 +117,10 @@ namespace FEMAssembly
                 IncreaseLoadStep();
                 solver.LoadStepNumber++;
 
-                // Calculate external forces:
-                CalcExternalForcesRVE();
-
                 // Solve constitutive laws and look for force equilibrium:
                 bool converged = false;
                 while (converged == false)
                 {
-
                     // Loop over each element and apply constitutive model:
                     for (int j = 0; j < NumberOfElements; j++)
                     {
@@ -192,8 +190,8 @@ namespace FEMAssembly
                     else if (solver.SolverType == 2) // Static non-linear solver
                     {
                         // Calculate Residual (Fext - Fint)
+                        CalcExternalForcesRVE();
                         AssembleInternalForcesRVE();
-                        double[] Residual = new double[TotalDOF];
                         Residual = Doubles.SubtractDoubles(ExternalForces, InternalForces);
 
                         // Check Equilibrium:
@@ -498,8 +496,8 @@ namespace FEMAssembly
         private static bool CheckEquilibrium(double[] force, double[] Residual, double minTol)
         {
             // Calculate tolerance:
-            double tol = Doubles.EuclideanNorm(Residual) / Doubles.EuclideanNorm(force);
-            //double tolerance = Math.Sqrt(Math.Abs(Doubles.MultiplyDoubles(Residual, Residual)));
+            //double tol = Doubles.EuclideanNorm(Residual) / Doubles.EuclideanNorm(force);
+            double tol = Math.Sqrt(Math.Abs(Doubles.MultiplyDoubles(Residual, Residual)));
  
             // Check calculated tolerance (tol) vs. minimum specified tolerance (minTol)
             if (tol <= minTol) { return true; }

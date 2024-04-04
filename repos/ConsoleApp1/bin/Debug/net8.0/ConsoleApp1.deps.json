@@ -41,14 +41,6 @@
         "runtime": {
           "myMath.dll": {}
         }
-      },
-      "Matrix/1.0.0.0": {
-        "runtime": {
-          "Matrix.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -75,11 +67,6 @@
     },
     "myMath/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Matrix/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

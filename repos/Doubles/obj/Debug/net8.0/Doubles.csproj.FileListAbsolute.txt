@@ -75,3 +75,15 @@ C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Doubles\ob
 C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Doubles\obj\Debug\net8.0\refint\Doubles.dll
 C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Doubles\obj\Debug\net8.0\Doubles.pdb
 C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\repos\Doubles\obj\Debug\net8.0\ref\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\bin\Debug\net8.0\Doubles.deps.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\bin\Debug\net8.0\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\bin\Debug\net8.0\Doubles.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.AssemblyInfoInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.AssemblyInfo.cs
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.csproj.CoreCompileInputs.cache
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.sourcelink.json
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\refint\Doubles.dll
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\Doubles.pdb
+C:\Users\Eric_Carey.UMLADCO\OneDrive - UMass Lowell\FFEM_CSharp\FFEM\repos\Doubles\obj\Debug\net8.0\ref\Doubles.dll
